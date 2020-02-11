@@ -1,10 +1,1 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2511
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red28\green27\blue26;}
-{\*\expandedcolortbl;;\cssrgb\c14510\c14118\c13725;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl440\partightenfactor0
-{\field{\*\fldinst{HYPERLINK "https://your-github-account.github.io/rsschool-cv/cv"}}{\fldrslt 
-\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
-\ul \ulc2 \outl0\strokewidth0 \strokec2 https://strsntrong.github.io/rsschool-cv/cv}}}
+https://strsntrong.github.io/rsschool-cv/cv
